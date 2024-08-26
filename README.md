@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
    ```
 2. Navigate to the project directory:
    ```sh
-cd dynamic-dashboard
+   cd dynamic-dashboard
    ```
 3. Install the dependencies:
    ```sh
