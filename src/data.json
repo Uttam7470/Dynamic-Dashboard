@@ -1,0 +1,78 @@
+{
+    "categories": [
+      {
+        "id": "1",
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "id": "101",
+            "name": "Security Overview",
+            "text": "This widget provides an overview of security metrics."
+          },
+          {
+            "id": "102",
+            "name": "Compliance Status",
+            "text": "This widget displays the current compliance status."
+          },
+          {
+            "id": "103",
+            "name": "Risk Assessment",
+            "text": "This widget shows the latest risk assessment results."
+          },
+          {
+            "id": "104",
+            "name": "Audit Logs",
+            "text": "This widget lists recent audit log activities."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Compliance Dashboard",
+        "widgets": [
+          {
+            "id": "201",
+            "name": "Policy Overview",
+            "text": "This widget provides an overview of company policies."
+          },
+          {
+            "id": "202",
+            "name": "Regulatory Compliance",
+            "text": "This widget tracks compliance with regulatory standards."
+          },
+          {
+            "id": "203",
+            "name": "Audit Schedule",
+            "text": "This widget displays the upcoming audit schedule."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Security Dashboard",
+        "widgets": [
+          {
+            "id": "301",
+            "name": "Threat Intelligence",
+            "text": "This widget provides real-time threat intelligence updates."
+          },
+          {
+            "id": "302",
+            "name": "Incident Response",
+            "text": "This widget details recent security incidents."
+          },
+          {
+            "id": "303",
+            "name": "Vulnerability Management",
+            "text": "This widget tracks vulnerabilities and remediation efforts."
+          },
+          {
+            "id": "304",
+            "name": "Security Alerts",
+            "text": "This widget shows the latest security alerts."
+          }
+        ]
+      }
+    ]
+  }
+  
